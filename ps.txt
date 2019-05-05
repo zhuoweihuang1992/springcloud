@@ -1,0 +1,13 @@
+1.工程文件：datas-erver (用IDEA导入即可)
+
+2.数据库文件：test.sql (测试服务必须导入，否则用到数据库的服务会启动异常)
+
+3.如遇到maven下载jar包失败，可用clearLastUpdated.bat脚本清除下载未完成的jar(双击运行按提示操作)
+
+4.springcloud 开发可参考（SpringCloud开发使用手册）
+
+5.IDEA相关设置可参考（Intellij IDEA常用操作说明）
+
+6.工程的一些类中有一些看到有红色下划线的“错误”，不用管，程序是运行正常的，IDEA的问题
+
+7.工程springcloud组件介绍以及测试请参考（数据服务工程说明文档）
